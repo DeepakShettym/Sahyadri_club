@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:399930617244:android:94ae0407f4762b87b52c59",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.clubmanagement"
         }
